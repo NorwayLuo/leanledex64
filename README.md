@@ -1,5 +1,5 @@
-* 需要不定期手动修改同步lean指定的默认x64的.config文件              
-* 需要不定期手动修改同步feeds.conf.default                  
-* 同lean的lede的actions的自动编译时间               
+* 手动同步feeds.conf.default            
+* 手动同步x64默认.config              
+* 手动同步lean的actions自动编译时间                     
 
 
